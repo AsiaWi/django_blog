@@ -34,6 +34,8 @@ DEBUG = False
 
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
+
+
 ALLOWED_HOSTS = ['django-blog-asia-0ade5a4c0c39.herokuapp.com', '8000-asiawi-djangoblog-djdbdt1z4ke.ws-eu104.gitpod.io']
 
 
